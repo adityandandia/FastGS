@@ -1,0 +1,4 @@
+# ninja log v5
+0	5796	1781515535440876715	/home/cave/3dapp/FastGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	3f1142ddaea0dab1
+0	8497	1781515538139920495	/home/cave/3dapp/FastGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	81602e96442e934f
+0	21260	1781515550896127411	/home/cave/3dapp/FastGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	362c50a29318d877
