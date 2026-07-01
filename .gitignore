@@ -1,0 +1,8 @@
+build/
+*.so
+*.o
+*.egg-info/
+__pycache__/
+.ninja_deps
+.ninja_log
+submodules/diff-gaussian-rasterization_fastgs/test_gs.py
